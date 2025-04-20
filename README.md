@@ -1,6 +1,6 @@
 <h1>Hi, I'm Seth!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>[Vulnerability Management Lab](https://github.com/SethMosier/VulnerabilityManagementLab)</b>
 <!-- - <b>[Active Directory Home Lab](https://github.com/SethMosier/ActiveDirectoryLab)</b> !/-->
