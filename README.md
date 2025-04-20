@@ -5,7 +5,7 @@
 - <b>[Vulnerability Management Lab](https://github.com/SethMosier/VulnerabilityManagementLab)</b>
 <!-- - <b>[Active Directory Home Lab](https://github.com/SethMosier/ActiveDirectoryLab)</b> !/-->
 
-<h2>📜 Certifications </h2>
+<h2>📜 Certifications: </h2>
 
 - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/UNA6667PL3M8)
 
